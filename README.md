@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/mohammedzaidali371-cyber/pps-assignment--3/tree/master/0035-search-insert-position) |
 | [0566-reshape-the-matrix](https://github.com/mohammedzaidali371-cyber/pps-assignment--3/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/mohammedzaidali371-cyber/pps-assignment--3/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/mohammedzaidali371-cyber/pps-assignment--3/tree/master/0867-transpose-matrix) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/mohammedzaidali371-cyber/pps-assignment--3/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/mohammedzaidali371-cyber/pps-assignment--3/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
